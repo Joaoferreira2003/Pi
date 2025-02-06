@@ -1,0 +1,5 @@
+2feira;18.11.2024;sopa de legumes;180;estufado de vitela;330;sopa de legumes;150;salada de frutas;100
+3feira;19.11.2024;pescada cozida com batata;180;frango grelhado;250;salada de atum;200;quiche de legumes;220
+4feira;20.11.2024;caldo verde;150;carne de porco a alentejana;400;salada de grao;250;hamburguer vegetariano;300
+5feira;21.11.2024;sopa de cenoura;120;bacalhau à bras;350;salada de quinoa;200;wrap de vegetais;250
+6feira;22.11.2024;creme de abobora;160;frango estufado;300;salada de rúcula;180;pizza vegetariana;400
